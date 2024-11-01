@@ -2,5 +2,8 @@
 name = "discutils"
 version = "0.1.0"
 edition = "2021"
+description = "A port of DiscUtils to Rust"
+repository = "https://github.com/RCW679/discutils-rs"
+license = "MIT"
 
 [dependencies]
