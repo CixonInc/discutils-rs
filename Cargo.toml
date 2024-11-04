@@ -1,9 +1,10 @@
 [package]
 name = "discutils"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
+authors = ["RCW679"]
 description = "A port of DiscUtils to Rust"
-repository = "https://github.com/RCW679/discutils-rs"
+repository = "https://github.com/CixonInc/discutils-rs"
 license = "MIT"
 
 [dependencies]
